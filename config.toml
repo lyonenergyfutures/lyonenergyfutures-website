@@ -1,4 +1,3 @@
 baseURL = 'https://lyonef.com/'
 languageCode = 'en-us'
 title = 'Lyon Energy Futures'
-theme = "ananke"
