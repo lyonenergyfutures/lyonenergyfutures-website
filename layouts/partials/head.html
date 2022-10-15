@@ -1,8 +1,15 @@
+<title>{{ .Site.Params.title }}</title>
 <meta charset="utf-8">
-<title>{{ block "title" . }}{{ with .Params.Title }}{{ . }} | {{ end }}{{ .Site.Title }}{{ end }}</title>
+<meta property="og:title" {{ printf "content=%q" .Site.Params.title | safeHTMLAttr }} />
+<meta name="twitter:title" {{ printf "content=%q" .Site.Params.title | safeHTMLAttr }} />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<meta name="description" {{ printf "content=%q" .Site.Params.description | safeHTMLAttr }} />
+<meta name="twitter:description" {{ printf "content=%q" .Site.Params.description | safeHTMLAttr }} />
+<meta property="og:description" {{ printf "content=%q" .Site.Params.description | safeHTMLAttr }} />
+<meta name="author" content="{{ .Site.Params.Author }}">
+<meta property="og:locale" content="en" />
+<meta property="og:type" content="website" />
+<meta property="og:site_name" content="{{ .Site.Title }}" />
+
+<link rel="stylesheet" href="/css/style.css" />
 <link href="/favicon.png" rel="icon" type="image/png">
-<link href="/feed.xml" rel="alternate" type="application/atom+xml">
-<link href="https://richardlyon.net" rel="canonical">
-<meta name="description" content="{{ with .Description }}{{ . }}{{ else }}{{if .IsPage}}{{ .Summary }}{{ else }}{{ with .Site.Params.description }}{{ . }}{{ end }}{{ end }}{{ end }}">
-<meta name="author" content="{{ .Site.Params.Author.Name }}">
-<meta name="viewport" content="width=device-width, initial-scale=1">
