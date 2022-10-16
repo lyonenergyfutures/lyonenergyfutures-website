@@ -6,3 +6,14 @@ title = 'Lyon Energy Futures'
 title = 'Lyon Energy Futures - Are You Ready'
 author = 'Richard Lyon'
 description = 'Lyon Energy Futures is an independent research and business intelligence company, equipping clients with data and insights that power better decision making.'
+
+[menu]
+[[menu.main]]
+    name = 'services'
+    url = '/services'
+    weight = 1
+[[menu.main]]
+    name = 'blog'
+    url = '/blog'
+    weight = 2
+
