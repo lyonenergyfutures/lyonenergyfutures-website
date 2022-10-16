@@ -10,10 +10,10 @@ description = 'Lyon Energy Futures is an independent research and business intel
 [menu]
 [[menu.main]]
     name = 'services'
-    url = '/services'
+    url = '#'
     weight = 1
 [[menu.main]]
     name = 'blog'
-    url = '/blog'
+    url = '#'
     weight = 2
 
