@@ -3,11 +3,53 @@ languageCode = 'en-us'
 title = 'Lyon Energy Futures'
 
 [params]
+
 title = 'Lyon Energy Futures - Are You Ready'
 author = 'Richard Lyon'
-description = 'Lyon Energy Futures is an independent research and business intelligence company, equipping clients with data and insights that power better decision making.'
+description = """
+We are an independent research and business intelligence company, equipping clients with data and 
+insights that power better decision making."""
+
+opening_blurb = """
+Our lives literally depend on cheap energy. Where it comes from, and how it is changing, should be taught at school 
+alongside reading, writing, and arithmetic. Until now, we've never had to understand it. Now, we can't afford not to. 
+And now, <a href="#" class="text-orange-400 font-semibold">you can</a>.
+"""
+
+[[params.services]]
+    supertitle = 'Training'
+    title = 'Creating value through deep understanding'
+    blurb = """
+            Utility classes help you work within the constraints of a system instead of littering your 
+            stylesheets with arbitrary values. They make it easy to be consistent with color choices, spacing, 
+            typography, shadows, and everything else that makes up a well-engineered design system.
+            """
+    url = '#'
+    color = 'indigo-500'
+    weight = 1
+
+[[params.services]]
+    supertitle = 'Public speaking'
+    title = 'Quantify risk and transfer knowledge' 
+    blurb = """
+            Econonomics blurb.
+            """
+    url = '#'
+    color = 'pink-500'
+    weight = 2
+
+# [[params.services]]
+#     supertitle = 'Project and Operations management'
+#     title = 'Confident, technical, commercial' 
+#     blurb = """
+#             Services blurb.
+#             """
+#     url = '#'
+#     color = 'sky-500'
+#     weight = 3
 
 [menu]
+
 [[menu.main]]
     name = 'services'
     url = '#'
@@ -16,4 +58,5 @@ description = 'Lyon Energy Futures is an independent research and business intel
     name = 'blog'
     url = '#'
     weight = 2
+
 
