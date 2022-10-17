@@ -1,23 +1,13 @@
-<!DOCTYPE html>
-<html lang="en">
+{{ define "main" }}
 
-<head>
-    {{ partial "head" . }}
-</head>
+<section>
+    <h1 class="text-4xl font-extrabold tracking-tight text-center text-white sm:text-6xl">
+        The future of energy is changing. <br />Are you ready?</h1>
+    <p class="max-w-2xl mx-auto mt-6 text-lg text-center text-slate-400">{{ .Site.Params.description }}</p>
+</section>
 
-<body class="w-full h-screen antialiased text-slate-400 bg-slate-900">
-    <header class="relative">
-        <div class="px-8 sm:px-6">
 
-            {{ partial "navigation" . }}
-
-            <h1 class="text-4xl font-extrabold tracking-tight text-center text-white sm:text-6xl">
-                The future of energy is changing. <br />Are you ready?</h1>
-            <p class="max-w-2xl mx-auto mt-6 text-lg text-center text-slate-400">{{ .Site.Params.description }}</p>
-        </div>
-    </header>
-
-    <!-- <section class="px-8 pt-24 text-center">
+<!-- <section class="px-8 pt-24 text-center">
         <h2 class="text-4xl font-extrabold tracking-tight text-white sm:text-5xl">
             Do your staff understand how energy works?
         </h2>
@@ -36,10 +26,6 @@
         </figure>
     </section> -->
 
-    <!-- {{ partial "services" . }} -->
+<!-- {{ partial "services" . }} -->
 
-    {{ partial "footer" .}}
-
-</body>
-
-</html>
+{{ end }}

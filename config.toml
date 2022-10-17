@@ -13,17 +13,17 @@ insights that power better decision making."""
 opening_blurb = """
 Our lives literally depend on cheap energy. Where it comes from, and how it is changing, should be taught at school 
 alongside reading, writing, and arithmetic. Until now, we've never had to understand it. Now, we can't afford not to. 
-And now, <a href="#" class="text-orange-400 font-semibold">you can</a>.
+And now, <a href="#" class="font-semibold text-orange-400">you can</a>.
 """
 
 [[params.services]]
     supertitle = 'Training'
     title = 'Creating value through deep understanding'
     blurb = """
-            Utility classes help you work within the constraints of a system instead of littering your 
-            stylesheets with arbitrary values. They make it easy to be consistent with color choices, spacing, 
-            typography, shadows, and everything else that makes up a well-engineered design system.
-            """
+    Utility classes help you work within the constraints of a system instead of littering your 
+    stylesheets with arbitrary values. They make it easy to be consistent with color choices, spacing, 
+    typography, shadows, and everything else that makes up a well-engineered design system.
+    """
     url = '#'
     color = 'indigo-500'
     weight = 1
@@ -56,7 +56,7 @@ And now, <a href="#" class="text-orange-400 font-semibold">you can</a>.
     weight = 1
 [[menu.main]]
     name = 'blog'
-    url = '#'
+    url = '/posts'
     weight = 2
 
 
