@@ -1,36 +1,35 @@
 <!DOCTYPE html>
-<html class="dark [--scroll-mt:9.875rem] lg:[--scroll-mt:6.3125rem] js-focus-visible" data-js-focus-visible=""
-    lang="en">
+<html lang="en">
 
 <head>
     {{ partial "head" . }}
 </head>
 
-<body class="antialiased text-slate-400 bg-slate-900 h-screen w-full index_beams">
+<body class="w-full h-screen antialiased text-slate-400 bg-slate-900">
     <header class="relative">
-        <div class="px-4 sm:px-6 md:px-8">
+        <div class="px-8 sm:px-6">
 
             {{ partial "navigation" . }}
 
-            <h1 class="text-white font-extrabold text-4xl sm:text-5xl lg:text-6xl lg:pt-20 tracking-tight text-center">
+            <h1 class="text-4xl font-extrabold tracking-tight text-center text-white sm:text-5xl">
                 The future of energy is changing. <br />Are you ready?</h1>
-            <p class="mt-6 text-lg text-slate-400 max-w-2xl mx-auto text-center">{{ .Site.Params.description }}</p>
+            <p class="max-w-2xl mx-auto mt-6 text-lg text-center text-slate-400">{{ .Site.Params.description }}</p>
         </div>
     </header>
 
-    <!-- <section class="text-center px-8 pt-24">
-        <h2 class="text-white text-4xl tracking-tight font-extrabold sm:text-5xl">
+    <!-- <section class="px-8 pt-24 text-center">
+        <h2 class="text-4xl font-extrabold tracking-tight text-white sm:text-5xl">
             Do your staff understand how energy works?
         </h2>
         <figure>
             <blockquote>
-                <p class="mt-6 max-w-3xl mx-auto text-lg">{{ .Site.Params.opening_blurb | safeHTML}}</p>
+                <p class="max-w-3xl mx-auto mt-6 text-lg">{{ .Site.Params.opening_blurb | safeHTML}}</p>
             </blockquote>
-            <figcaption class="mt-6 flex items-center justify-center space-x-4 text-left">
-                <img class="w-14 h-14 rounded-full" src="/img/richard-250x250.jpg" alt="" loading="lazy"
+            <figcaption class="flex items-center justify-center mt-6 space-x-4 text-left">
+                <img class="rounded-full w-14 h-14" src="/img/richard-250x250.jpg" alt="" loading="lazy"
                     decoding="async">
                 <div>
-                    <div class="text-slate-900 font-semibold dark:text-white">Richard Lyon</div>
+                    <div class="font-semibold text-slate-900 dark:text-white">Richard Lyon</div>
                     <div class="mt-0.5 text-sm leading-6">Director of Lyon Energy Futures</div>
                 </div>
             </figcaption>
@@ -38,6 +37,8 @@
     </section> -->
 
     <!-- {{ partial "services" . }} -->
+
+    {{ partial "footer" .}}
 
 </body>
 
