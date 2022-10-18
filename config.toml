@@ -2,25 +2,23 @@ baseURL = 'https://lyonef.com/'
 languageCode = 'en-us'
 title = 'Lyon Energy Futures'
 
-
 [permalinks]
   blog = '/:year/:month/:title/'
 
 [markup.goldmark.renderer]
-unsafe= true
+    unsafe= true
 
 [params]
 
 title = 'Lyon Energy Futures - Are You Ready'
 author = 'Richard Lyon'
 description = """
-We are an independent research and business intelligence company, equipping clients with data and 
+We are an independent research and business intelligence company, equipping clients with data and \
 insights that power better decision making."""
 opening_blurb = """
-Our lives literally depend on cheap energy. Where it comes from, and how it is changing, should be taught at school 
-alongside reading, writing, and arithmetic. Until now, we've never had to understand it. Now, we can't afford not to. 
-And now, <a href="#" class="font-semibold text-orange-400">you can</a>.
-"""
+Our lives literally depend on cheap energy. Where it comes from, and how it is changing, should be \
+taught at school alongside reading, writing, and arithmetic. Until now, we've never had to understand it. Now, we \
+can't afford not to. And now, <a href="#" class="font-semibold text-orange-400">you can</a>."""
 twitter_handle = "@LyonEnergyFtrs"
 convertkit_id = 3704941
 
@@ -28,9 +26,9 @@ convertkit_id = 3704941
     supertitle = 'Training'
     title = 'Creating value through deep understanding'
     blurb = """
-    Utility classes help you work within the constraints of a system instead of littering your 
-    stylesheets with arbitrary values. They make it easy to be consistent with color choices, spacing, 
-    typography, shadows, and everything else that makes up a well-engineered design system.
+        Utility classes help you work within the constraints of a system instead of littering your 
+        stylesheets with arbitrary values. They make it easy to be consistent with color choices, spacing, 
+        typography, shadows, and everything else that makes up a well-engineered design system.
     """
     url = '#'
     color = 'indigo-500'
