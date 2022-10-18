@@ -26,6 +26,14 @@
     }
 } */
 
+.index_beams {
+    background-image: url(/img/hero-dark-bg-beams.jpg);
+    background-size: 186.125rem;
+    background-position: center top;
+    background-repeat: repeat;
+    ;
+}
+
 .hamburger {
     cursor: pointer;
     width: 48px;

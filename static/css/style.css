@@ -1154,25 +1154,6 @@ video {
   margin-bottom: 0;
 }
 
-.\!prose-invert {
-  --tw-prose-body: var(--tw-prose-invert-body) !important;
-  --tw-prose-headings: var(--tw-prose-invert-headings) !important;
-  --tw-prose-lead: var(--tw-prose-invert-lead) !important;
-  --tw-prose-links: var(--tw-prose-invert-links) !important;
-  --tw-prose-bold: var(--tw-prose-invert-bold) !important;
-  --tw-prose-counters: var(--tw-prose-invert-counters) !important;
-  --tw-prose-bullets: var(--tw-prose-invert-bullets) !important;
-  --tw-prose-hr: var(--tw-prose-invert-hr) !important;
-  --tw-prose-quotes: var(--tw-prose-invert-quotes) !important;
-  --tw-prose-quote-borders: var(--tw-prose-invert-quote-borders) !important;
-  --tw-prose-captions: var(--tw-prose-invert-captions) !important;
-  --tw-prose-code: var(--tw-prose-invert-code) !important;
-  --tw-prose-pre-code: var(--tw-prose-invert-pre-code) !important;
-  --tw-prose-pre-bg: var(--tw-prose-invert-pre-bg) !important;
-  --tw-prose-th-borders: var(--tw-prose-invert-th-borders) !important;
-  --tw-prose-td-borders: var(--tw-prose-invert-td-borders) !important;
-}
-
 .prose-slate {
   --tw-prose-body: #334155;
   --tw-prose-headings: #0f172a;
@@ -1708,9 +1689,9 @@ video {
   padding-right: 2rem;
 }
 
-.px-0 {
-  padding-left: 0px;
-  padding-right: 0px;
+.px-4 {
+  padding-left: 1rem;
+  padding-right: 1rem;
 }
 
 .py-16 {
@@ -1731,11 +1712,6 @@ video {
 .px-3 {
   padding-left: 0.75rem;
   padding-right: 0.75rem;
-}
-
-.px-4 {
-  padding-left: 1rem;
-  padding-right: 1rem;
 }
 
 .px-5 {
@@ -1785,20 +1761,16 @@ video {
   padding-top: 3.5rem;
 }
 
+.pb-4 {
+  padding-bottom: 1rem;
+}
+
 .pr-8 {
   padding-right: 2rem;
 }
 
 .pr-2 {
   padding-right: 0.5rem;
-}
-
-.pb-4 {
-  padding-bottom: 1rem;
-}
-
-.pb-5 {
-  padding-bottom: 1.25rem;
 }
 
 .text-left {
@@ -2021,6 +1993,13 @@ video {
     }
 } */
 
+.index_beams {
+  background-image: url(/img/hero-dark-bg-beams.jpg);
+  background-size: 186.125rem;
+  background-position: center top;
+  background-repeat: repeat;
+}
+
 .hamburger {
   cursor: pointer;
   width: 48px;
@@ -2208,41 +2187,6 @@ video {
   --tw-prose-pre-bg: var(--tw-prose-invert-pre-bg);
   --tw-prose-th-borders: var(--tw-prose-invert-th-borders);
   --tw-prose-td-borders: var(--tw-prose-invert-td-borders);
-}
-
-.dark .dark\:prose-slate {
-  --tw-prose-body: #334155;
-  --tw-prose-headings: #0f172a;
-  --tw-prose-lead: #475569;
-  --tw-prose-links: #0f172a;
-  --tw-prose-bold: #0f172a;
-  --tw-prose-counters: #64748b;
-  --tw-prose-bullets: #cbd5e1;
-  --tw-prose-hr: #e2e8f0;
-  --tw-prose-quotes: #0f172a;
-  --tw-prose-quote-borders: #e2e8f0;
-  --tw-prose-captions: #64748b;
-  --tw-prose-code: #0f172a;
-  --tw-prose-pre-code: #e2e8f0;
-  --tw-prose-pre-bg: #1e293b;
-  --tw-prose-th-borders: #cbd5e1;
-  --tw-prose-td-borders: #e2e8f0;
-  --tw-prose-invert-body: #cbd5e1;
-  --tw-prose-invert-headings: #fff;
-  --tw-prose-invert-lead: #94a3b8;
-  --tw-prose-invert-links: #fff;
-  --tw-prose-invert-bold: #fff;
-  --tw-prose-invert-counters: #94a3b8;
-  --tw-prose-invert-bullets: #475569;
-  --tw-prose-invert-hr: #334155;
-  --tw-prose-invert-quotes: #f1f5f9;
-  --tw-prose-invert-quote-borders: #334155;
-  --tw-prose-invert-captions: #94a3b8;
-  --tw-prose-invert-code: #fff;
-  --tw-prose-invert-pre-code: #cbd5e1;
-  --tw-prose-invert-pre-bg: rgb(0 0 0 / 50%);
-  --tw-prose-invert-th-borders: #475569;
-  --tw-prose-invert-td-borders: #334155;
 }
 
 .dark .dark\:block {
