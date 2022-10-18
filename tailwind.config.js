@@ -7,5 +7,5 @@ module.exports = {
   variants: {
     fontWeight: ['retina'],
   },
-  plugins: [],
+  plugins: [require('@tailwindcss/typography')],
 }

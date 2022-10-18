@@ -1,26 +1,16 @@
 ---
 date: 2019-11-22T12:18:19Z
-title: "Energy Transition Planning and the Oil Supply"
-description: There's much less than you think.
 
-categories: 
-- energy
+topic: energy
+gist: There's much less than you think
+title: Energy Transition Planning and the Oil Supply
+summary: >
+  Is the hydrocrbon supply durable enough to ensure the build out of the renewable energy system necessary to replace it? Sadly, no. This fundamentally shapes energy policy.
 
 tags:
   - oil
   - renewable energy
   - energy transition
-
-resources:
-      - name: header
-        src: img/blowout.jpg
-      - src: img/global-oil-discovery-and-production.png
-        title: Global oil discovery and production
-      - src: img/cumulative-oil-discovery-and-production.png
-        title: Cumulative oil discovery and production
-      - src: img/peak-extension.png
-        title: Peak extension versus depletion rate
-
 ---
 
 As concern about climate change increases, so too do demands for the boycott of fossil fuel businesses, and to step up investments in renewable technology firms.
@@ -53,7 +43,7 @@ Failing to backdate volume adjustments therefore results in a significant overes
 
 Graphs of backdated global oil discoveries are uncommon, and you may not have actually seen one. So, for convenience, here it is for oil:
 
-{{<figure "img/global-oil-discovery-and-production.png">}}
+{{< figure src="/blog/img/global-oil-discovery-and-production.png" title="Global oil discovery and production" >}}
 
 The majority of all the oil still in production today was discovered either side of the Second World War---most of the oil we use today is from reservoirs that are over 70 years old. 
 
@@ -65,7 +55,7 @@ Technology driven continuous improvement, you’ll recall, is the basis of neocl
 
 Moving on. Some basic maths: the plot of the cumulative total of discovery volume is an "S" curve with a point of inflection at the date it peaked (1966), and an asymptote. 
 
-{{<figure "img/cumulative-oil-discovery-and-production.png">}}
+{{< figure src="/blog/img/cumulative-oil-discovery-and-production.png" title="Cumulative oil discovery and production" >}}
 
 The physical interpretation of the asymptote is the total volume that was in the ground at the start of exploration. At any date prior to the inflection point, the uncertainty of the asymptote is extremely high i.e. it could be anything. At successive dates after the inflection point, the uncertainty of the asymptote diminishes, and becomes increasingly insensitive even to large volumes of new discovery.
 
@@ -75,7 +65,7 @@ Forecasting production from an infinite or infinite-acting supply is complex. Un
 
 Forecasting production from a finite volume, in comparison, is trivial---it's essentially the pattern of discovery, delayed by a few years, and modified by the choice between producing the remaining volume slowly for a long time, or quickly for a short time. It yields a very different production forecast, as illustrated here by a family of curves having equal areas under their curves corresponding to the remaining resource volume (you may want to reflect for a moment on the implications of the scale of the time axis):
 
-{{<figure "img/peak-extension.png">}}
+{{< figure src="/blog/img/peak-extension.png" title="Peak extension versus depletion rate" >}}
 
 Doomsters' forecasts of the date of peak oil failed to anticipate the readiness of our financial system after the 2008 energy price triggered system crash to accommodate increasingly uneconomic energy developments. Since 2008, there has been significant creation of new debt and transfer of private equity funds from the stalled economy into some oil developments that have no obvious mechanisms for debt recovery, facilitated by the relaxation of accountancy standards, financial regulations, and reserves classification. 
 

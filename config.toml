@@ -2,6 +2,13 @@ baseURL = 'https://lyonef.com/'
 languageCode = 'en-us'
 title = 'Lyon Energy Futures'
 
+
+[permalinks]
+  posts = '/:year/:month/:title/'
+
+[markup.goldmark.renderer]
+unsafe= true
+
 [params]
 
 title = 'Lyon Energy Futures - Are You Ready'
@@ -9,12 +16,13 @@ author = 'Richard Lyon'
 description = """
 We are an independent research and business intelligence company, equipping clients with data and 
 insights that power better decision making."""
-
 opening_blurb = """
 Our lives literally depend on cheap energy. Where it comes from, and how it is changing, should be taught at school 
 alongside reading, writing, and arithmetic. Until now, we've never had to understand it. Now, we can't afford not to. 
 And now, <a href="#" class="font-semibold text-orange-400">you can</a>.
 """
+twitter_handle = "@LyonEnergyFtrs"
+convertkit_id = 3704941
 
 [[params.services]]
     supertitle = 'Training'
@@ -56,7 +64,7 @@ And now, <a href="#" class="font-semibold text-orange-400">you can</a>.
     weight = 1
 [[menu.main]]
     name = 'blog'
-    url = '/posts'
+    url = '/blog'
     weight = 2
 
 

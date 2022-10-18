@@ -1,28 +1,23 @@
 ---
-date: "2019-11-16"
-title: "Energy Transition Planning and Exponential Growth"
-description: "In bounded exponential systems, nothing happens for a long time. Then everything happens."
+date: 2019-11-16
 
-categories: 
-- energy
+topic: energy
+gist: Explosive
+title: Energy Transition Planning and Exponential Growth
+summary: >
+    In bounded exponential systems, nothing happens for a long time. Then everything happens.
+
 
 tags:
 - exponential growth
-- neclassical economics
+- neoclassical economics
 - renewable energy
 - oil
-
-resources:
-- name : header
-  src: img/technology-exponential-growth.gif
-- name: growth curve
-  src: img/exponential-growth.png
-  title: Exponential growth
 ---
 
 I expect you'll want your income to increase by 5% next year, not by the 5 shillings your great grandfather might have welcomed. Many systems change at a rate that is proportional to their current size, rather than by fixed amounts. We call the latter type of system "linear". We call the former "exponential".
 
-{{<figure "growth curve">}}
+{{< figure src="/blog/img/exponential-growth.png" title="Exponential growth" >}}
 
 Our brains are hardwired to deal with linear systems, like the closing distance of a pursuing sabre tooth tiger. An ancestor forced to process the exponentially increasing velocity of falling off a cliff didn't pass their genes on.
 
