@@ -22,7 +22,7 @@ can't afford not to. And now, <a href="#" class="font-semibold text-orange-400">
 twitter_handle = "@LyonEnergyFtrs"
 convertkit_id = 3704941
 
-images = ['logo-200x200.png']
+images = ['/img/logo-200x200.png']
 
 [[params.services]]
     supertitle = 'Training'
