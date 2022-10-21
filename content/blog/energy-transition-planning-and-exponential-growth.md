@@ -4,7 +4,7 @@ date: 2019-11-16
 topic: energy
 gist: Explosive
 title: Energy Transition Planning and Exponential Growth
-summary: >
+description: >
     In bounded exponential systems, nothing happens for a long time. Then everything happens.
 
 

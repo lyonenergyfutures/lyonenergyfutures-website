@@ -4,7 +4,7 @@ date: 2021-12-06T13:21:23+01:00
 topic: Energy
 gist: It's hard
 title: "Maintaining Growth"
-summary: > 
+description: > 
     In this essay, we'll estimate how much oil have we to find, develop, and mobilise between now and 2040 to maintain energy demand growth. This time we'll discover that it's much more than energy transition plans generally assume.
 
 

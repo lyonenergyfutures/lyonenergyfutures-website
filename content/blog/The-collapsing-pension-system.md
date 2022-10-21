@@ -4,7 +4,7 @@ date: 2022-09-30
 topic: Finance
 gist: Wipe out
 title: "The Collapsing Pension System"
-summary: > 
+description: > 
     Money requires energy. When energy contracts, so must money.
 
 tags:

@@ -5,7 +5,7 @@ topic: Energy
 gist: A relevant, binding constraint
 title: "Triggernometry interview: ‘Climate Activism is Religion’"
 
-summary: > 
+description: > 
     Our capacity to solve problems via technology requires a sufficient supply of excess energy with which to build the technology. So there’s one problem that technology can’t solve: an insufficient supply of excess energy. Triggernometry's recent interview with editor of Human​Progress​.org, Marian Tupy, reveals how deeply this confusion about resources is embedded in neoclassical theory about the energy crisis.
 
 tags:

@@ -4,7 +4,7 @@ date: 2022-07-04T13:04:50+01:00
 topic: Energy
 gist: All fall down
 title: "Oil Discoveries Are Collapsing"
-summary: > 
+description: > 
     We can't produce what we haven't discovered. Oil discovery last year fell to an 75 year low. Production will follow.
 
 tags:

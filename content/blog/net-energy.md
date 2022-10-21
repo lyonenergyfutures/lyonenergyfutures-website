@@ -4,7 +4,7 @@ date: 2022-10-11T12:38:03+01:00
 topic: Energy
 gist: When there's not enough
 title: "Net Energy"
-summary: > 
+description: > 
     It takes energy to get energy. And if your energy system isn't productive enough, there isn't enough left over to live on. That matters if we want to move to very low productivity energy systems like "renewables".
 
 

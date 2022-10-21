@@ -4,7 +4,7 @@ date: 2019-11-22T12:18:19Z
 topic: energy
 gist: There's much less than you think
 title: Energy Transition Planning and the Oil Supply
-summary: >
+description: >
   Is the hydrocrbon supply durable enough to ensure the build out of the renewable energy system necessary to replace it? Sadly, no. This fundamentally shapes energy policy.
 
 tags:

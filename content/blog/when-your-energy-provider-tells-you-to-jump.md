@@ -4,7 +4,7 @@ date: 2022-01-02T13:15:16+01:00
 topic: Energy
 gist: Pull your socks up
 title: "When Your Energy Provider Tells You to Jump"
-summary: > 
+description: > 
     Advice from your energy company to do star jumps to keep warm is more rational than printing money to build "renewable" devices that won't run without hydrocarbon.
 
 tags:

@@ -4,7 +4,7 @@ date: 2019-08-14T13:26:03+01:00
 topic: energy
 gist: Toasty
 title: "The Surprising Benefits of Passive Houses"
-summary: > 
+description: > 
     I built a Passive House—a house with such radically high energy efficiency that it consumes about 70% less energy than a conventional house. This brief article is about how it does that, what it's like to live in, and how its costs stack up. At the end, I’ll share some thoughts with you on potential implications of this technology for public policy. 
 
 tags:
