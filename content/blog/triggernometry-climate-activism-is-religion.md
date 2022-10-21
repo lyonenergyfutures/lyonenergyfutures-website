@@ -22,13 +22,13 @@ Marian is a well informed and engaging speaker, and there is much with which to 
 
 [//]: # (summarise errors)
 
-Although Marian identifies and explains the problem very well, when he turns to solutions, the theoretical grounds he sets out for rejecting it are almost as flawed as the policy he criticises. Having correctly observed that solutions to the problem lie in high density sources of energy, such as gas and nuclear, he claims that the most prominent of those -- oil -- is not running out, and that we have hundreds of years of remaining supply. The amount of resource available to us is, in fact, an irrelevant, non-binding constraint on our ability to create economic value. That’s because, as humans, we have a limitless ability to innovate: technology, we learn, is ‘dynamic’; if we need something, its price will rise and we’ll either find more of it, use less of it, or substitute it with something else entirely. As evidence of this, he notes, life is better than it was 100 years ago and, as the population of the planet increases, the price of everything is falling.
+Although Marian identifies and explains the problem very well, when he turns to solutions, the theoretical grounds he sets out for rejecting it are almost as flawed as the policy he criticises. Having correctly observed that solutions to the problem lie in high density sources of energy, such as gas and nuclear, he claims that the most prominent of those -- oil -- is not running out, and that we have "hundreds" of years of remaining supply. The amount of resource available to us is, in fact, an irrelevant, non-binding constraint on our ability to create economic value. That’s because, as humans, we have a limitless ability to innovate: technology, we learn, is ‘dynamic’; if we need something, its price will rise and we’ll either find more of it, use less of it, or substitute it with something else entirely. As evidence of this, he notes, life is better than it was 100 years ago and, as the population of the planet increases, the price of everything is falling.
 
 [//]: # (correct errors)
 
 [//]: # (explain his theoretical framework)
 
-Marian’s institution, _Human​Progress​.org_, is parented by The Cato Institute, an American libertarian think tank. It also receives significant support from The John Templeton Foundation. Both advance an extreme form of capitalism [^views] in which free markets plays a central role in optimising the allocation of scarce resources. The intellectual framework for this ideology is neoclassical economics, also sometimes called ‘_neoliberal_’ or ‘_Washington Consensus_’ economics. 
+Marian’s institution, _Human​Progress​.org_, is parented by The Cato Institute, an American libertarian think tank. It also receives significant support from The John Templeton Foundation. Both advance an extreme form of capitalism [^views] in which free markets play a central role in optimising the allocation of scarce resources. The intellectual framework for this ideology is neoclassical economics, also sometimes called ‘_neoliberal_’ or ‘_Washington Consensus_’ economics. 
 
 Neoclassical economics is the product of an attempt to elevate economics -- a social science -- into an actual science. It arose from the struggle to reject concerns that emerged after the Second World War about the ability of the Earth’s finite resource base to accommodate indefinite exponential growth. [^notclimate]
 
@@ -36,7 +36,7 @@ Neoclassical economic’s theoretical shortcomings are well understood. This rat
 
 > The realization that the conceptual base for much of [neoclassical] economics is quite flimsy is no longer news to either those who follow events within the field or to many interested outsiders in the natural sciences...Some twenty years ago in the journal Science, Nobel prize winner in economics Wassily Leontief found the basic models of economics “unable to advance in any perceptible way a systematic understanding of the operation of a real economic system.” Instead they were based on “sets of more or less plausible but entirely arbitrary assumptions” leading to “precisely stated but irrelevant theoretical conclusions...[Neoclassical economic models] are also enormously and deeply flawed, in a way and to a degree that is almost inconceivable and even an embarrassment to someone who has a background in natural sciences or who believes in generating truth from the use of the scientific method.
 
-The central failure of neoclassical economic theory about resources lies in its failure to recognise exponential growth.
+The central failure of neoclassical economic theory about resources lies in its failure to recognise the significance of exponential growth in economic and financial systems.
 
 ## The blindspot: exponential growth
 ---
@@ -58,9 +58,9 @@ We can’t produce what we haven’t discovered. So the volume of oil that can b
 
 {{<figure src="/blog/img/global-discovery-production-annotated.png" title="Figure 1. The rate of discovery of affordable oil has collapsed - discovery in 2021 was 5 billion barrels. Source: Lyon, Richard. 2010. ‘The Optimism Index: Quantifying the Uncertainty of Energy Policy’." >}}
 
-We produce that discovered and discoverable volume on an easy first/difficult last basis. Ordinarily, that produces a peak in output corresponding to the moment that the decline rate of all the existing easy production exceeds the rate at which we can *economically* add successively harder new production. The peak was around 2008. Since 2008, we've been printing literally unimaginable quantities of fake money. That fake money has in part been funding the production of uneconomic oil, delaying the onset of peak (right hand panel, above). It is this delay in the onset of peak that has produced Marian's perception of an infinite acting pool of oil. 
+We produce that discovered and discoverable volume on an easy first/difficult last basis. Ordinarily, that produces a peak in output corresponding to the moment that the decline rate of all the existing easy production exceeds the rate at which we can *economically* add successively harder new production. The peak was around 2008. Since 2008, we've been printing literally unimaginable quantities of fake money. That fake money has in part been funding the production of uneconomic oil, delaying the onset of peak production (right hand panel, above). It is this delay in the onset of peak production that has produced Marian's perception of an infinite acting pool of oil. 
 
-We don't look for oil in parts of the world that it has not previously been found for the same reason that we don't look for kangaroos in parts of world where they have not previously been found. Just as understanding the origins of kangaroos tells us where to look for kangaroos, understanding the origins of oil (ironically, in two periods of abundant life associated with previous global warming periods) tells us where to look for oil. And we've already looked in all those places.
+We don't look for oil in parts of the world that it has not previously been found for the same reason that we don't look for kangaroos in parts of world where they have not previously been found. Just as understanding the origins of kangaroos tells us where (and where not) to look for kangaroos, understanding the origins of oil (ironically, in two periods of abundant life associated with previous global warming periods) tells us where and where not to look for oil. And we've already looked in all those places.
 
 ## Resources are a binding constraint
 ---
@@ -74,7 +74,7 @@ Rising resource scarcity causes the cost of the resource to rise. With functioni
 
 We saw this in 2008. In 2005, production of “affordable oil” breached the limit of the capacity of the global system to deliver it. That drove the oil price up, reaching $140 per barrel in June 2008 and triggering the ongoing crisis of a stagnated economy. 
 
-Stagnation or contraction of the economic system in turn forces contraction of the financial system. [^interest] Money is produced from goods and services, which require energy. Energy expansion means more goods, more services, and more money. Energy contraction means fewer goods, fewer services, and less money. When energy contracts, money has to be withdrawn -- we must become poorer -- to preserve the value of what money can be supported by the new level of energy, goods, and services. 
+Stagnation or contraction of the economic system in turn forces contraction of the financial system. [^interest] Why? Because money is produced from goods and services, which require energy. Energy expansion means more goods, more services, and more money. Energy contraction means fewer goods, fewer services, and less money. When energy contracts, money has to be withdrawn -- we must become poorer -- to preserve the value of what money can be supported by the new level of energy, goods, and services. 
 
 Again, we saw this in 2008. Instead of managing the contraction of the financial system necessitated by the contraction of the energy system by withdrawing money, we responded by printing unimaginable quantities of irredeemable debt -- fake money -- to try and fill the widening gap. That is now driving hyperinflation and visibly destabilising the financial system. 
  
@@ -101,7 +101,7 @@ It's repeated to the point of platitude: "Humans can solve any problem". That st
   
  And that lack awareness of the condition upon which energy transitions depend is what lured neoclassical economic resource theory into committing the circular fallacy that an economy that has exhausted stocks of affordable, high net energy fuels can solve the problem of transitioning to one based on incredibly low net energy fuels. It's the confounding factor he's overlooked when concluding that it is technology that has led to life getting better, and costs falling.  
  
- Our energy resources are already fully allocated to sustaining the operations that support current living arrangements -- which include, for example, feeding some fraction of the 5 billion additional humans that are now alive since the start of the hydrocarbon era/. Even these are inadequate -- we also now have to print trillions of dollars on an ongoing basis to sustain the illusion of viability. 
+ Our energy resources are already fully allocated to sustaining the operations that support current living arrangements -- which include, for example, feeding some fraction of the 5 billion additional humans that are now alive since the start of the hydrocarbon era/. Even these are inadequate -- we also now have to print trillions of dollars on an ongoing basis to sustain the illusion that our economic and financial systems are currently viable. 
  
  Which of those energy intensive operations would Marin switch off to support his technology projects? Industrial agriculture? Water and waste systems? Medicines and health care? The internet? 
  
@@ -116,11 +116,11 @@ It's an understatement to say that energy is important. Our lives -- literally -
 
 Throughout the interview, hosts Konstantin and Francis note how reassuring they find Marian’s account of our energy supply problem. Which is exactly the purpose for which neoclassical economic theory was invented. The theory  that Nobel prize winning economists note is _"unable to advance in any perceptible way a systematic understanding of the operation of a real economic system"_.
 
-We should know the relationship between energy and economy and finance systems, the effects that changes in the energy system produce in the economy and finance systems, and the limitations that the economic and finance system place on our ability to secure energy. 
+We should know the relationship between energy and real economic and finance systems, the effects that changes in the energy system produce in real economic and finance systems, and the limitations that real economic and finance system place on our ability to secure energy. 
 
 We should be capable of basic reasoning processes, for example that something that depends on something else for producing things can't produce the thing that it depends on. 
 
-We should know the difference, thermodynamically, between a rocket engine and a summer breeze. We should understand intuitively why adding up lots and lots of wind turbines no more reproduces a coal fire power station than adding up lots and lots of ski lift queues reproduces a black run.
+We should know the difference, thermodynamically, between a rocket engine and a summer breeze. And we should understand intuitively why adding up lots and lots of wind turbines no more reproduces a coal fire power station than adding up lots and lots of ski lift queues reproduces a Black run.
 
 Energy should be taught in schools, alongside reading, writing, and arithmetic. 
 
