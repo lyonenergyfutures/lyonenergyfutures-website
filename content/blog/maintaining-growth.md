@@ -11,7 +11,7 @@ summary: >
 tags:
 - exponential growth
 
-draft: false
+draft: true
 ---
 
 In previous essays, we looked at the numbers that apparently small energy demand growth and supply depletion rates generate (astronomical), and how much oil is likely to be left based on the historical pattern of discovery (far less than generally assumed).

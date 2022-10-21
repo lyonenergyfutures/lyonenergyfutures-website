@@ -13,6 +13,8 @@ tags:
 - neoclassical economics
 - renewable energy
 - oil
+
+draft: true
 ---
 
 I expect you'll want your income to increase by 5% next year, not by the 5 shillings your great grandfather might have welcomed. Many systems change at a rate that is proportional to their current size, rather than by fixed amounts. We call the latter type of system "linear". We call the former "exponential".

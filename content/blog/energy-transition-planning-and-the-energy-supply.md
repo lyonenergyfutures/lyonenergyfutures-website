@@ -11,6 +11,8 @@ tags:
   - oil
   - renewable energy
   - energy transition
+
+draft: false
 ---
 
 As concern about climate change increases, so too do demands for the boycott of fossil fuel businesses, and to step up investments in renewable technology firms.

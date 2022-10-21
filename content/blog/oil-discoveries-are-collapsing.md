@@ -5,7 +5,7 @@ topic: Energy
 gist: All fall down
 title: "Oil Discoveries Are Collapsing"
 summary: > 
-    We can't produce what we haven't discovered. Oil discovery last yeaar fell to an 75 year low. Production will follow.
+    We can't produce what we haven't discovered. Oil discovery last year fell to an 75 year low. Production will follow.
 
 tags:
 
@@ -17,7 +17,7 @@ In my energy economics thesis 10 years ago, I plotted backdated global oil disco
 {{< figure src="/blog/img/falling-discoveries.jpg" title="Discoveries are falling" >}}
 
 
-Fast forward to today, and Rystad Energy report[^1] that the O&G industry discovered less than 5 billion boe in 2021 - the worst performance in 75 years. This point falls more or less exactly on the projection line I constructed 10 years ago
+Fast forward to today, and Rystad Energy report [^1] that the O&G industry discovered less than 5 billion boe in 2021 - the worst performance in 75 years. This point falls more or less exactly on the projection line I constructed 10 years ago
 
 In my analysis, I noted that 2 trillion barrels, extracted at a rate increasing at 1% per year, is fully exhausted by 2030. Rysted notes that "Big Oil" is on track to exhaust current remaining reserves in less than 15 years. Close enough.
 
