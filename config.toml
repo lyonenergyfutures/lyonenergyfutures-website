@@ -22,6 +22,7 @@ can't afford not to. And now, <a href="#" class="font-semibold text-orange-400">
 twitter_handle = "@LyonEnergyFtrs"
 convertkit_id = 3704941
 
+twitter_cards = true
 images = ['/img/logo-200x200.png']
 
 [[params.services]]

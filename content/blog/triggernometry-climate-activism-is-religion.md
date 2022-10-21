@@ -123,7 +123,7 @@ We should know the relationship between energy and real economic and finance sys
 
 We should be capable of basic reasoning processes, for example that something that depends on something else for producing things can't produce the thing that it depends on. 
 
-We should know the difference, thermodynamically, between a rocket engine and a summer breeze. And we should understand intuitively why adding up lots and lots of wind turbines no more reproduces a coal fire power station than adding up lots and lots of ski lift queues reproduces a Black run.
+We should know the difference, thermodynamically, between a gas fired power station and a summer breeze. And we should understand intuitively why adding up lots and lots of wind turbines no more reproduces a gas fired power station than adding up lots and lots of ski lift queues reproduces a Black run.
 
 Energy should be taught in schools, alongside reading, writing, and arithmetic. 
 
