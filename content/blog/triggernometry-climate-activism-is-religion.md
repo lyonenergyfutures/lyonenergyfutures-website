@@ -9,7 +9,7 @@ description: >
     Triggernometry's recent interview with editor of Human​Progress​.org, Marian Tupy, reveals the deep confusion about resources that is embedded in neoclassical theory about the energy crisis.
 
 images: 
-    - /blog/img/triggernometry-climate-activism.png
+    - /img/index-page-726x412.png
 
 twitter:
     card: summary
