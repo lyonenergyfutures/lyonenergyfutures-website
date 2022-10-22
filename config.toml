@@ -1,6 +1,7 @@
 baseURL = 'https://lyonef.com/'
 languageCode = 'en-us'
 title = 'Lyon Energy Futures'
+googleAnalytics = 'G-M1F0R20E3L'
 
 [permalinks]
   blog = '/:year/:month/:title/'
