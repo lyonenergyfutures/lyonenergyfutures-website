@@ -3,7 +3,7 @@ date: 2022-10-20T14:27:43+01:00
 
 topic: Energy
 gist: A relevant, binding constraint
-title: "Triggernometry interview: ‘Climate Activism is Religion’"
+title: "REVIEW: Triggernometry interview: ‘Climate Activism is Religion’"
 
 description: > 
     Triggernometry's recent interview with editor of Human​Progress​.org, Marian Tupy, reveals the deep confusion about energy resources that is embedded in neoclassical economic theory.
