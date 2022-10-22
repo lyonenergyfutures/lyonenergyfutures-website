@@ -12,7 +12,7 @@ images:
     - /img/index-page-726x412.png
 
 twitter:
-    card: summary
+    card: summary_large_image
     site: "@LyonEnergyFtrs"
     title: "Triggernometry interview: ‘Climate Activism is Religion’"
     description: This is the description
