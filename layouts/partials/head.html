@@ -19,14 +19,17 @@
 {{ with .Params.twitter }}
 <meta name="twitter:card" content="{{- .card -}}">
 <meta name="twitter:site" content="{{- .site -}}">
-{{ if ne .card "app" -}}
-<meta name="twitter:title" content="{{- .title -}}">
 <meta name="twitter:image" content="{{- .image -}}">
 {{ with .image_alt -}}
-<meta name="twitter:image:alt" content="{{- . -}}">{{- end }}
+<meta name="twitter:image:alt" content="{{- . -}}">
 {{- end }}
 {{ with .creator -}}
-<meta name="twitter:creator" content="{{- . -}}">{{- end }}
+<meta name="twitter:creator" content="{{- . -}}">
 {{ end }}
+{{ end }}
+
+<meta name="twitter:title" content="{{- .Params.Title -}}">
+<meta name="twitter:description" content="{{- .Params.description -}}">
+
 
 <script src="/js/menu.js"></script>

@@ -6,16 +6,11 @@ gist: A relevant, binding constraint
 title: "Triggernometry interview: ‘Climate Activism is Religion’"
 
 description: > 
-    Triggernometry's recent interview with editor of Human​Progress​.org, Marian Tupy, reveals the deep confusion about resources that is embedded in neoclassical theory about the energy crisis.
-
-images: 
-    - /img/index-page-726x412.png
+    Triggernometry's recent interview with editor of Human​Progress​.org, Marian Tupy, reveals the deep confusion about energy resources that is embedded in neoclassical economic theory.
 
 twitter:
     card: summary_large_image
     site: "@LyonEnergyFtrs"
-    title: "Triggernometry interview: ‘Climate Activism is Religion’"
-    description: This is the description
     image: /img/index-page-726x412.png
 
 tags:
