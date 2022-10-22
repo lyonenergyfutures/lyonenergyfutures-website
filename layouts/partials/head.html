@@ -16,4 +16,17 @@
 <meta property="og:title" {{ printf "content=%q" .Site.Params.title | safeHTMLAttr }} />
 <title>{{ .Site.Params.title }}</title>
 
+{{ with .Params.twitter }}
+<meta name="twitter:card" content="{{- .card -}}">
+<meta name="twitter:site" content="{{- .site -}}">
+{{ if ne .card "app" -}}
+<meta name="twitter:title" content="{{- .title -}}">
+<meta name="twitter:image" content="{{- .image -}}">
+{{ with .image_alt -}}
+<meta name="twitter:image:alt" content="{{- . -}}">{{- end }}
+{{- end }}
+{{ with .creator -}}
+<meta name="twitter:creator" content="{{- . -}}">{{- end }}
+{{ end }}
+
 <script src="/js/menu.js"></script>
