@@ -57,7 +57,7 @@ Turning now to those claims...
 
 ## Oil is running out
 ---
-Marian believes that oil is not running out and that, if we wanted to, we could search other parts of the world for it. That's because he's unaware of the history of oil discovery, the effect on oil production of printing vast quantities of fake money, and basic petroleum geology.
+Marian believes that oil is not running out and that, if we wanted to, we could search other parts of the world for it. That's because he's unaware of the history of oil discovery, the recent effect on oil production of printing vast quantities of fake money, and basic petroleum geology.
 
 We can’t produce what we haven’t discovered. So the volume of oil that can be produced is defined by the volume of oil that has been discovered. Discovery of *affordable* oil (left hand panel, below) peaked around the date of the moon landing in 1969 and has declined at around 5% per year ever since. That establishes the maximum volume of affordable oil that will ever be discovered, and therefore produced. It's about 2 trillion barrels.
 
