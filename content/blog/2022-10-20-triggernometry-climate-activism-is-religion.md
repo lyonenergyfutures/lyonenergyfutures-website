@@ -104,7 +104,8 @@ It's repeated to the point of platitude: "Humans can solve any problem". That st
  We've got so used to this arrangement that we're unaware of it, much as fish are presumably unaware of the water they are born and die in. It's the confounding factor he's overlooked when concluding that it is technology, not rising energy density, that has led to life getting better, and costs falling.
   
  And that lack awareness of the condition upon which energy transitions depend is what lured neoclassical economic resource theory into committing the circular fallacy that an economy that has exhausted stocks of affordable, high net energy fuels can solve the problem of transitioning to one based on incredibly low net energy fuels. 
- Our energy resources are already fully allocated to sustaining the operations that support current living arrangements -- which include, for example, feeding some fraction of the 5 billion additional humans that are now alive since the start of the hydrocarbon era/. Even these are inadequate -- we also now have to print trillions of dollars on an ongoing basis to sustain the illusion that our economic and financial systems are currently viable. 
+
+ Our energy resources are already fully allocated to sustaining the operations that support current living arrangements -- which include, for example, feeding some fraction of the 5 billion additional humans that are now alive since the start of the hydrocarbon era. Even these are inadequate -- as net energy contraxcts, we also now have to print trillions of dollars on an ongoing basis to sustain the illusion that our economic and financial systems are currently viable. 
  
  Which of those energy intensive operations would Marian switch off to support his technology projects? Industrial agriculture? Water and waste systems? Medicines and health care? The internet? 
  
