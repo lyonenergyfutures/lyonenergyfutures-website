@@ -71,7 +71,7 @@ We don't look for oil in parts of the world that it has not previously been foun
 ---
 Marian is untroubled by any of this because, in neoclassical economic theory, human economic activity is limited not by the number of atoms on the planet, but by the cost of those atoms. As scarcity arises, cost rises. As cost rises, incentives to find alternatives rise, those incentives yield new discoveries, and costs lower. The engine of this is human ingenuity, expressed through technology.
 
-Marin is unaware of the defining -- and crippling -- effect that energy scarcity has on our ability to response to resource scarcity, and the circular argument embedded in his faith in the ability of technology to solve energy scarcity.
+Marian is unaware of the defining -- and crippling -- effect that energy scarcity has on our ability to response to resource scarcity, and the circular argument embedded in his faith in the ability of technology to solve energy scarcity.
 
 ### The illusion of permanent growth -- affordable vs. unaffordable energy
 
@@ -91,15 +91,15 @@ Let's look at the second.
 
 ### The illusion of technology -- the dependence on energy
 
-As you can see from fig. 1 above, contrary to Marin's claims about technology, it hasn't actually increased the volume of discoverable, affordable oil. Since the peak of discovery of affordable oil in 1969, we’ve invented all sorts of disruptive technologies that should have revolutionised the discovery of affordable oil: the miniaturisation of electronics and the ability to send sensors down hostile well bores; the ability to visualise and model the subsurface with supercomputers; the ability to acquire geophysical data over the whole surface of the earth from low earth orbit; the development of novel materials, etc. And it’s made barely noticeable difference to the discovery decline rate. Replacement volumes in 2021 were the lowest in 80 years, and oil companies now have around 15 years of oil volumes left. [^rystad]
+As you can see from Fig. 1 above, contrary to Marian's claims about technology, it hasn't actually increased the volume of discoverable, affordable oil. Since the peak of discovery of affordable oil in 1969, we’ve invented all sorts of disruptive technologies that should have revolutionised the discovery of affordable oil: the miniaturisation of electronics and the ability to send sensors down hostile well bores; the ability to visualise and model the subsurface with supercomputers; the ability to acquire geophysical data over the whole surface of the earth from low earth orbit; the development of novel materials, etc. And it’s made barely noticeable difference to the discovery decline rate. Replacement volumes in 2021 were the lowest in 80 years, and oil companies now have around 15 years of oil volumes left. [^rystad]
 
-But that's not the core problem with Marin's theory.
+But that's not the core problem with Marian's theory.
 
 It's repeated to the point of platitude: "Humans can solve any problem". That statement misses the essential qualification: "_Given a sufficient amount of excess energy_, humans can solve any problem". As if to illustrate his claim, Marin quotes neoclassical economist Thomas Sowell: [^sowell]
 
 > The cavemen had the same natural resources at their disposal as we have today, and the difference between their standard of living and ours is a difference between the knowledge they could bring to bear on those resources and the knowledge used today.
 
- Well, no. What the cavemen had at their disposal, and the difference between their standard of living and ours, was the possibility of 10,000 years of energy transitions to successively more dense fuel types (wood -> charcoal -> coal -> oil/gas -> nuclear) and, at each stage, large quantities of the fuel currently in use with which to build out the next, higher density energy system. 
+ Well, no. What the cavemen had at their disposal, and the difference between their standard of living and ours now, was the possibility of 10,000 years of energy transitions to successively more dense fuel types (wood -> charcoal -> coal -> oil/gas -> nuclear) and, at each stage, large quantities of the fuel currently in use with which to build out the next, higher density energy system. 
 
   
  We've got so used to this arrangement that we're unaware of it, much as fish are presumably unaware of the water they are born and die in. 
@@ -108,7 +108,7 @@ It's repeated to the point of platitude: "Humans can solve any problem". That st
  
  Our energy resources are already fully allocated to sustaining the operations that support current living arrangements -- which include, for example, feeding some fraction of the 5 billion additional humans that are now alive since the start of the hydrocarbon era/. Even these are inadequate -- we also now have to print trillions of dollars on an ongoing basis to sustain the illusion that our economic and financial systems are currently viable. 
  
- Which of those energy intensive operations would Marin switch off to support his technology projects? Industrial agriculture? Water and waste systems? Medicines and health care? The internet? 
+ Which of those energy intensive operations would Marian switch off to support his technology projects? Industrial agriculture? Water and waste systems? Medicines and health care? The internet? 
  
  He's not clear.
 
