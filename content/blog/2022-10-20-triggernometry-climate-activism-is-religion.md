@@ -69,7 +69,7 @@ We don't look for oil in parts of the world that it has not previously been foun
 
 ## Resources are a binding constraint
 ---
-Marin is untroubled by any of this because, in neoclassical economic theory, human economic activity is limited not by the number of atoms on the planet, but by the cost of those atoms. As scarcity arises, cost rises. As cost rises, incentives to find alternatives rise, those incentives yield new discoveries, and costs lower. The engine of this is human ingenuity, expressed through technology.
+Marian is untroubled by any of this because, in neoclassical economic theory, human economic activity is limited not by the number of atoms on the planet, but by the cost of those atoms. As scarcity arises, cost rises. As cost rises, incentives to find alternatives rise, those incentives yield new discoveries, and costs lower. The engine of this is human ingenuity, expressed through technology.
 
 Marin is unaware of the defining -- and crippling -- effect that energy scarcity has on our ability to response to resource scarcity, and the circular argument embedded in his faith in the ability of technology to solve energy scarcity.
 
