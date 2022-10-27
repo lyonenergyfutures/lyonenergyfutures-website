@@ -35,7 +35,7 @@ Although Marian identifies and explains the problem very well, when he turns to 
 
 Marian’s institution, _Human​Progress​.org_, is parented by The Cato Institute, an American libertarian think tank. It also receives significant support from The John Templeton Foundation. Both advance an extreme form of capitalism [^views] in which free markets play a central role in optimising the allocation of scarce resources. The intellectual framework for this ideology is neoclassical economics, also sometimes called ‘_neoliberal_’ or ‘_Washington Consensus_’ economics. 
 
-Neoclassical economics is the product of the largely failed attempt to elevate economics from "social" science into an actual science. It arose from the struggle to reject concerns that emerged after the Second World War about the ability of the Earth’s finite resource base to accommodate indefinite exponential growth. [^notclimate]
+Neoclassical economics is the product of the largely unsuccessful attempt to elevate economics from a "social science" into an actual science. It arose from the struggle to reject concerns that emerged after the Second World War about the ability of the Earth’s finite resource base to accommodate indefinite exponential growth. [^notclimate]
 
 Neoclassical economic’s theoretical shortcomings are well understood. This rather pithy extract gives a flavour: [^klit]
 
