@@ -35,7 +35,7 @@ Although Marian identifies and explains the problem very well, when he turns to 
 
 Marian’s institution, _Human​Progress​.org_, is parented by The Cato Institute, an American libertarian think tank. It also receives significant support from The John Templeton Foundation. Both advance an extreme form of capitalism [^views] in which free markets play a central role in optimising the allocation of scarce resources. The intellectual framework for this ideology is neoclassical economics, also sometimes called ‘_neoliberal_’ or ‘_Washington Consensus_’ economics. 
 
-Neoclassical economics is the product of the largely failed attempt to elevate economics as a discipline -- a "social science" -- into an actual science. It arose from the struggle to reject concerns that emerged after the Second World War about the ability of the Earth’s finite resource base to accommodate indefinite exponential growth. [^notclimate]
+Neoclassical economics is the product of the largely failed attempt to elevate economics from "social" science into an actual science. It arose from the struggle to reject concerns that emerged after the Second World War about the ability of the Earth’s finite resource base to accommodate indefinite exponential growth. [^notclimate]
 
 Neoclassical economic’s theoretical shortcomings are well understood. This rather pithy extract gives a flavour: [^klit]
 
@@ -49,7 +49,7 @@ Exponential growth arises whenever you want something that is proportional to wh
 
 We extract resources at a rate that rises exponentially.
 
-Exponential systems have strange properties. In linear systems, quantities increase by a fixed amount in equal time periods -- 1, 2, 3, 4, etc. In exponential systems, quantities *double* in equal time periods -- 1, 2, 4, 8, etc. In exponential systems, nothing happens for a long time, then everything happens. It’s a simple proof, available to a 7th grade student, that the time to exhaust a finite stock that is drawn down at a rate that rises exponentially is essentially independent of the estimated volume of stock originally in place, and that you get almost no warning that it’s about to exhaust. [^exponential]
+Exponential systems have strange, unintuitive properties. In linear systems, quantities increase by a fixed amount in equal time periods -- 1, 2, 3, 4, etc. In exponential systems, quantities *double* in equal time periods -- 1, 2, 4, 8, etc. In exponential systems, nothing happens for a long time, then everything happens. It’s a simple proof, available to a 7th grade student, that the time to exhaust a finite stock that is drawn down at a rate that rises exponentially is essentially independent of the estimated volume of stock originally in place, and that you get almost no warning that it’s about to exhaust. [^exponential]
 
 Neoclassical economics in general, and Marian in particular, are oblivious to those strange properties. This oblivion is responsible for many of their startling claims about the real world, such as Marian’s claim that the number of atoms in the world is an irrelevant and non-binding constraint on human ability to create economic value.
 
@@ -59,7 +59,7 @@ Turning now to those claims...
 ---
 Marian believes that oil is not running out and that, if we wanted to, we could search other parts of the world for it. That's because he's unaware of the history of oil discovery, the recent effect on oil production of printing vast quantities of fake money, and basic petroleum geology.
 
-We can’t produce what we haven’t discovered. So the volume of oil that can be produced -- a volume  that Marian supposes is arbitrary -- is in fact defined by the volume of oil that has been discovered, and can reasonably expected to be discovered. Discovery of *affordable* oil (left hand panel, below) peaked around the date of the moon landing in 1969 and has declined at around 5% per year ever since. That establishes the maximum volume of affordable oil that will ever be discovered, and therefore produced. It's about 2 trillion barrels.
+We can’t produce what we haven’t discovered. So the volume of oil that can be produced -- a volume  that Marian supposes is arbitrary -- is in fact defined by the volume of oil that has, and can reasonably expected to be, discovered. Discovery of *affordable* oil (left hand panel, below) peaked around the date of the moon landing in 1969 and has declined at around 5% per year ever since. That establishes the maximum volume of affordable oil that will ever be discovered, and therefore produced. It's about 2 trillion barrels.
 
 {{<figure src="/blog/img/global-discovery-production-annotated.png" title="Figure 1. The rate of discovery of affordable oil has collapsed - discovery in 2021 was 5 billion barrels. Source: Lyon, Richard. 2010. ‘The Optimism Index: Quantifying the Uncertainty of Energy Policy’." >}}
 
@@ -83,7 +83,7 @@ Stagnation or contraction of the economic system in turn forces contraction of t
 
 Again, we saw this in 2008. Instead of managing the contraction of the financial system necessitated by the contraction of the energy system by withdrawing money, we responded by printing unimaginable quantities of irredeemable debt -- fake money -- to try and fill the widening gap. That is now driving hyperinflation and visibly destabilising the financial system. 
  
-Taken together, these economic and financial limits establish the two fundamental categories of energy that exist in the world: "affordable" energy i.e. the types that allow economies and financial systems to function, thereby relieving resource scarcities; and "unaffordable" energy i.e. the types that cause economies and financial systems to collapse. Most so-called "unconventional" types of oil (tar sands, bio fuels, oils from fracturing, etc.) and so-called "renewable" energies are "unaffordable" in this sense. 
+Taken together, these economic and financial limits establish the two fundamental categories of energy that exist in the world: "affordable" energy i.e. the types that allow economies and financial systems to function, thereby relieving resource scarcities; and "unaffordable" energy i.e. the types that cause economies and financial systems to collapse. Most so-called "unconventional" types of oil (tar sands, bio fuels, oils from fracturing, etc.) and so-called "renewable" energies (solar, wind, biofuels, etc.) are "unaffordable" in this sense. 
 
 And that is the first reason why Marian's claim that when the price doubles, the incentive to look for more oil doubles, and therefore the amount of oil doubles, is absurd.
 
@@ -120,11 +120,11 @@ It's an understatement to say that energy is important. Our lives -- literally -
 
 Throughout the interview, hosts Konstantin and Francis note how reassuring they find Marian’s account of our energy supply problem. Which is exactly the purpose for which neoclassical economic theory was invented. The theory  that Nobel prize winning economists note is _"unable to advance in any perceptible way a systematic understanding of the operation of a real economic system"_.
 
-We should know the relationship between energy and real economic and finance systems, the effects that changes in the energy system produce in real economic and finance systems, and the limitations that real economic and finance system place on our ability to secure energy. 
+We should know the relationship between energy and real economic and finance systems, the effects that changes in the energy system produce in real economic and finance systems, and the limitations that real economic and finance systems place on our ability to secure energy. 
 
 We should be capable of basic reasoning processes, for example that something that depends on something else for producing things can't produce the thing that it depends on. 
 
-We should know the difference, thermodynamically, between a gas fired power station and a summer breeze. And we should understand intuitively why adding up lots and lots of wind turbines no more reproduces a gas fired power station than adding up lots and lots of ski lift queues reproduces a Black run.
+We should know the difference, thermodynamically, between a gas fired power station and a summer breeze. And we should understand intuitively why adding up lots and lots of wind turbines no more reproduces a gas fired power station than adding up lots and lots of ski lift queues reproduces a 'black' ski run.
 
 Energy should be taught in schools, alongside reading, writing, and arithmetic. 
 
