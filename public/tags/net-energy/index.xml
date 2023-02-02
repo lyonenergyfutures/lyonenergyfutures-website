@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>net energy on Lyon Energy Futures</title>
+    <link>https://lyonef.com/tags/net-energy/</link>
+    <description>Recent content in net energy on Lyon Energy Futures</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 11 Oct 2022 12:38:03 +0100</lastBuildDate><atom:link href="https://lyonef.com/tags/net-energy/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Net Energy</title>
+      <link>https://lyonef.com/2022/10/net-energy/</link>
+      <pubDate>Tue, 11 Oct 2022 12:38:03 +0100</pubDate>
+      
+      <guid>https://lyonef.com/2022/10/net-energy/</guid>
+      <description>The absurdity of ongoing attempts to replace ultra dense hydrocarbon with ultra diffuse, so-called &amp;ldquo;renewable&amp;rdquo; energy devices, is evident from the fundamental governing equation:
+Net energy = (EROEI - 1) / EROEI
+It establishes an unintuitive property shared by many physical systems: “Nothing happens for a long time, then everything happens all at once”.
+That unintuitive behaviour has scrambled our reasoning about energy. It&amp;rsquo;s why the true energy and financial costs of attempts to replace hydrocarbon with sunbeams and summer breezes haven’t even begun to be estimated.</description>
+    </item>
+    
+  </channel>
+</rss>

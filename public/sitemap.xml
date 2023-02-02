@@ -2,10 +2,67 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://lyonef.com/categories/</loc>
-  </url><url>
     <loc>https://lyonef.com/</loc>
+    <lastmod>2022-10-20T14:27:43+01:00</lastmod>
+    <priority>0</priority>
+  </url><url>
+    <loc>https://lyonef.com/blog/</loc>
+    <lastmod>2022-10-20T14:27:43+01:00</lastmod>
+  </url><url>
+    <loc>https://lyonef.com/2022/10/review-triggernometry-interview-climate-activism-is-religion/</loc>
+    <lastmod>2022-10-20T14:27:43+01:00</lastmod>
+  </url><url>
+    <loc>https://lyonef.com/tags/net-energy/</loc>
+    <lastmod>2022-10-11T12:38:03+01:00</lastmod>
+  </url><url>
+    <loc>https://lyonef.com/2022/10/net-energy/</loc>
+    <lastmod>2022-10-11T12:38:03+01:00</lastmod>
   </url><url>
     <loc>https://lyonef.com/tags/</loc>
+    <lastmod>2022-10-11T12:38:03+01:00</lastmod>
+  </url><url>
+    <loc>https://lyonef.com/2022/09/the-collapsing-pension-system/</loc>
+    <lastmod>2022-09-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://lyonef.com/2022/07/oil-discoveries-are-collapsing/</loc>
+    <lastmod>2022-07-04T13:04:50+01:00</lastmod>
+  </url><url>
+    <loc>https://lyonef.com/tags/climate-science/</loc>
+    <lastmod>2022-06-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://lyonef.com/tags/modelling/</loc>
+    <lastmod>2022-06-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://lyonef.com/tags/net-zero/</loc>
+    <lastmod>2022-06-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://lyonef.com/2022/06/why-climate-science-is-not-even-wrong/</loc>
+    <lastmod>2022-06-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://lyonef.com/2022/05/ons-study-shows-fewer-people-dying/</loc>
+    <lastmod>2022-05-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://lyonef.com/tags/passive-housing/</loc>
+    <lastmod>2022-01-02T13:15:16+01:00</lastmod>
+  </url><url>
+    <loc>https://lyonef.com/2022/01/when-your-energy-provider-tells-you-to-jump/</loc>
+    <lastmod>2022-01-02T13:15:16+01:00</lastmod>
+  </url><url>
+    <loc>https://lyonef.com/tags/energy-transition/</loc>
+    <lastmod>2019-11-22T12:18:19+00:00</lastmod>
+  </url><url>
+    <loc>https://lyonef.com/2019/11/energy-transition-planning-and-the-oil-supply/</loc>
+    <lastmod>2019-11-22T12:18:19+00:00</lastmod>
+  </url><url>
+    <loc>https://lyonef.com/tags/oil/</loc>
+    <lastmod>2019-11-22T12:18:19+00:00</lastmod>
+  </url><url>
+    <loc>https://lyonef.com/tags/renewable-energy/</loc>
+    <lastmod>2019-11-22T12:18:19+00:00</lastmod>
+  </url><url>
+    <loc>https://lyonef.com/2019/08/the-surprising-benefits-of-passive-houses/</loc>
+    <lastmod>2019-08-14T13:26:03+01:00</lastmod>
+  </url><url>
+    <loc>https://lyonef.com/categories/</loc>
   </url>
 </urlset>
